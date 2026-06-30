@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0510/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部五
+  hash: sha256:91d391b03400458fe4b5406ed6606e69862a8e4f767c40fe8478f37cc3ae4e00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0510_WYG_000-1a, image: WYG1212/WYG1212-0001a.png}
+body:
+  text: 禮部集别集類四元提要臣等謹案禮部集二十卷元呉師道撰師道有戰國䇿校註已著録集原名蘭陰山房類稿此本題曰禮部者葢師道致仕以後授奉議大夫禮部郎中以所進之官名之也考張樞撰師道墓表杜本撰師道墓誌皆稱致仕後授琴議大夫禮部郎中而宋濓所作墓碑則稱以禮部郎中致仕元史本傳亦同葢元史即濓所撰故與碑合然樞與本皆師道舊友不應有誤或濓記録未真也凡詩九卷文十一卷流傳頗尠此本乃新城王士禎寫自崑山徐秉義家因行于世師道少與許謙同師金履祥所著有易雜説二卷書雜説六卷詩雜説二卷春秋胡氏傳附正十二卷于經術頗深所補正鮑彪戰國䇿註及所撰敬鄊錄于史事亦頗有考證又與黄溍栁貫呉萊相與往來倡和故詩文具有法度其文多闡明義理排斥釋老能篤守師傳其詩則風骨遒上意境亦深裒然升作者之堂非復仁山集中格律矣葢其早年本留心記覽刻意詞章弱冠以後始研究真徳秀書故其所作與講學家以餘力及之者迥不同云乾隆四十五年四月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:aa8619c897aedd6aad81b713f3d508051c7bead49e4d2e9b1c630decc22e2f7c
+metadata:
+  title: 禮部集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:12:36.905493'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0510/KR4d0510_000.txt
+hash: sha256:aecbc6134955b6180534a016bd9ab57b7da5c3cd661ce2b13db893a172bc70ae
